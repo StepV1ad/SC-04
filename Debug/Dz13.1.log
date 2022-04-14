@@ -1,0 +1,7 @@
+﻿  friendship.cpp
+D:\MVS_project\SkillFactory\Dz13.1\friendship.cpp(83,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MVS_project\SkillFactory\Dz13.1\friendship.cpp(92,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\MVS_project\SkillFactory\Dz13.1\friendship.cpp(93,31): warning C4018: <: несоответствие типов со знаком и без знака
+  main.cpp
+  Создание кода...
+  Dz13.1.vcxproj -> D:\MVS_project\SkillFactory\Dz13.1\Debug\Dz13.1.exe
